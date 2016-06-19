@@ -15,7 +15,7 @@
 		D89F95141D16C11C00E43D87 /* MicropostListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89F95131D16C11C00E43D87 /* MicropostListTests.swift */; };
 		D89F951F1D16C1F200E43D87 /* MicropostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89F951E1D16C1F200E43D87 /* MicropostTableViewCell.swift */; };
 		D89F95211D16C8E200E43D87 /* Micropost.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89F95201D16C8E200E43D87 /* Micropost.swift */; };
-		D89F95251D16CA6F00E43D87 /* MicropostTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89F95241D16CA6F00E43D87 /* MicropostTableViewController.swift */; };
+		D89F95271D16CD4D00E43D87 /* MicropostTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89F95261D16CD4D00E43D87 /* MicropostTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		D89F95151D16C11C00E43D87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D89F951E1D16C1F200E43D87 /* MicropostTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MicropostTableViewCell.swift; sourceTree = "<group>"; };
 		D89F95201D16C8E200E43D87 /* Micropost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Micropost.swift; sourceTree = "<group>"; };
-		D89F95241D16CA6F00E43D87 /* MicropostTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MicropostTableViewController.swift; path = ../MicropostTableViewController.swift; sourceTree = "<group>"; };
+		D89F95261D16CD4D00E43D87 /* MicropostTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MicropostTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 		D89F94FD1D16C11C00E43D87 /* MicropostList */ = {
 			isa = PBXGroup;
 			children = (
-				D89F95241D16CA6F00E43D87 /* MicropostTableViewController.swift */,
+				D89F95261D16CD4D00E43D87 /* MicropostTableViewController.swift */,
 				D89F94FE1D16C11C00E43D87 /* AppDelegate.swift */,
 				D89F95001D16C11C00E43D87 /* ViewController.swift */,
 				D89F951E1D16C1F200E43D87 /* MicropostTableViewCell.swift */,
@@ -209,7 +209,7 @@
 				D89F951F1D16C1F200E43D87 /* MicropostTableViewCell.swift in Sources */,
 				D89F95011D16C11C00E43D87 /* ViewController.swift in Sources */,
 				D89F95211D16C8E200E43D87 /* Micropost.swift in Sources */,
-				D89F95251D16CA6F00E43D87 /* MicropostTableViewController.swift in Sources */,
+				D89F95271D16CD4D00E43D87 /* MicropostTableViewController.swift in Sources */,
 				D89F94FF1D16C11C00E43D87 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
